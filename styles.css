@@ -4,6 +4,10 @@
   margin: 0;
 }
 
+body {
+  cursor: url("/assets/hand.svg"), auto;
+}
+
 h1 {
   margin-bottom: 20px;
 }
