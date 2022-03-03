@@ -1,3 +1,3 @@
 # demo
 
-## currently hacking on git status
+## currently hacking on bash repo
